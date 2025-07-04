@@ -1,0 +1,20 @@
+ # Terraform State
+*.tfstate
+*.tfstate.backup
+
+# Terraform Plugin & Cache
+.terraform/
+
+# Crash log
+crash.log
+
+# Variable override files (optional)
+*.tfvars
+
+# Zip, exe, or compiled binaries
+*.zip
+*.exe
+
+# IDE and system files
+.vscode/
+.DS_Store
